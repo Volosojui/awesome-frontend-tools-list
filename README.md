@@ -2,4 +2,4 @@
 Libraries, plugins, tools, resources and a lot more
 
 ## Parallax
-- [Atropos](https://atroposjs.com/) `hover effects`
+- [Atropos](https://atroposjs.com/) `3D hover effects`
