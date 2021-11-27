@@ -9,3 +9,4 @@ Libraries, plugins, tools, resources and a lot more
 - [Atropos](https://atroposjs.com/) `3D hover effects`
 - [lax.js](https://github.com/alexfoxy/lax.js) `scroll animations`
 - [Motus](https://github.com/alexcambose/motus) `scroll animations`
+- [locomotive](https://github.com/locomotivemtl/locomotive-scroll) `scroll animations`
