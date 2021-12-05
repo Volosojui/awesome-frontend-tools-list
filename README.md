@@ -14,3 +14,6 @@ Libraries, plugins, tools, resources and a lot more
 
 ## Animation
 - [Motion](https://github.com/framer/motion) `react`
+
+## React hooks
+- [useResizeObserver](https://www.npmjs.com/package/@react-hook/resize-observer)
