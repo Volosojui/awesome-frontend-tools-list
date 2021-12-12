@@ -17,3 +17,6 @@ Libraries, plugins, tools, resources and a lot more
 
 ## React hooks
 - [useResizeObserver](https://www.npmjs.com/package/@react-hook/resize-observer)
+
+## Frontend tooling
+- [Vite](https://vitejs.dev/)
