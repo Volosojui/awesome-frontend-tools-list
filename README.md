@@ -21,3 +21,6 @@ Libraries, plugins, tools, resources and a lot more
 ## Build tooling
 - [Vite](https://vitejs.dev/)
 - [Parcel](https://parceljs.org/)
+
+## Frameworks
+- [Next.js](https://nextjs.org/) `react`
