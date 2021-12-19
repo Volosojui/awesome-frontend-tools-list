@@ -9,6 +9,7 @@ Libraries, plugins, tools, resources and a lot more
 - [Air Datepicker](https://www.npmjs.com/package/air-datepicker)
 - [Vanilla Js Datepicker](https://github.com/mymth/vanillajs-datepicker)
 - [Flatpickr](https://github.com/flatpickr/flatpickr)
+- [JS Datepicker](https://github.com/qodesmith/datepicker)
 
 ## Parallax/Scroll animation
 - [Atropos](https://atroposjs.com/) `3D hover effects`
