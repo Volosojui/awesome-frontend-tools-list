@@ -5,6 +5,9 @@ Libraries, plugins, tools, resources and a lot more
 - [autoComplete.js](https://github.com/TarekRaafat/autoComplete.js)
 - [autocompleter](https://github.com/kraaden/autocomplete)
 
+## Datepicker
+- [Air Datepicker](https://www.npmjs.com/package/air-datepicker)
+
 ## Parallax/Scroll animation
 - [Atropos](https://atroposjs.com/) `3D hover effects`
 - [lax.js](https://github.com/alexfoxy/lax.js) `scroll animation`
