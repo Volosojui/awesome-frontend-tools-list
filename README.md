@@ -37,3 +37,6 @@ Libraries, plugins, tools, resources and a lot more
 
 ## UI
 - [NextUI](https://github.com/nextui-org/nextui) `next.js`
+
+## Notifications
+- [toasted-notes](https://github.com/bmcmahen/toasted-notes) `react`
