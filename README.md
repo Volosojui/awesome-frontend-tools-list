@@ -40,3 +40,4 @@ Libraries, plugins, tools, resources and a lot more
 
 ## Notifications
 - [toasted-notes](https://github.com/bmcmahen/toasted-notes) `react`
+- [react-toastify](https://github.com/fkhadra/react-toastify) `react`
