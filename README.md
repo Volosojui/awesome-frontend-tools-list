@@ -30,3 +30,6 @@ Libraries, plugins, tools, resources and a lot more
 
 ## Frameworks
 - [Next.js](https://nextjs.org/) `react`
+
+## State manager
+- [nanostores](https://github.com/nanostores/nanostores)
