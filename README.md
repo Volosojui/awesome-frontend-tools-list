@@ -33,3 +33,4 @@ Libraries, plugins, tools, resources and a lot more
 
 ## State manager
 - [nanostores](https://github.com/nanostores/nanostores)
+- [reselect](https://github.com/reduxjs/reselect) `redux tool`
