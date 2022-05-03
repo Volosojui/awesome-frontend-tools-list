@@ -47,4 +47,4 @@ Libraries, plugins, tools, resources and a lot more
 - [Day.js](https://github.com/iamkun/dayjs/)
 
 ## Articles
-(You don't need moment.js)[https://github.com/you-dont-need/You-Dont-Need-Momentjs]
+[You don't need moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
